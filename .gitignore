@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Source files from zip (keep local only)
+*.zip
+Titan site/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

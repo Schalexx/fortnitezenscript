@@ -134,7 +134,7 @@ function App() {
           <div className="flex items-center justify-between">
             {/* Logo - smaller on mobile */}
             <div className="flex-shrink-0">
-              <img src="/fortnite-logo.svg" alt="Fortnite Zen Scripts" className="h-8 md:h-12" />
+              <img src="/fortnite-logo.png" alt="Fortnite Zen Scripts" className="h-8 md:h-12" />
             </div>
 
             {/* Desktop Navigation */}
@@ -769,7 +769,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <img src="/fortnite-logo.svg" alt="Fortnite Zen Scripts" className="h-10 mb-4" />
+              <img src="/fortnite-logo.png" alt="Fortnite Zen Scripts" className="h-10 mb-4" />
               <p className="text-sm text-gray-400">
                 Premium Cronus Zen scripts for Fortnite. Trusted by thousands since 2024.
               </p>

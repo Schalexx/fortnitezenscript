@@ -53,7 +53,7 @@ function ProductPage() {
             {/* Logo */}
             <div className="flex-shrink-0">
               <Link to="/">
-                <img src="/fortnite-logo.svg" alt="Fortnite Zen Scripts" className="h-10 md:h-12" />
+                <img src="/fortnite-logo.png" alt="Fortnite Zen Scripts" className="h-10 md:h-12" />
               </Link>
             </div>
 
@@ -77,7 +77,7 @@ function ProductPage() {
           <div className="hidden md:flex items-center justify-center order-2 md:order-1">
             <div className="relative w-full max-w-sm">
               <img
-                src="/fortnite-icon.svg"
+                src="/fortnitebox.png"
                 alt="Titan Fortnite Zen Script"
                 className="w-full drop-shadow-2xl"
               />
@@ -90,7 +90,7 @@ function ProductPage() {
             <div className="flex items-end gap-4 mb-4 md:hidden">
               <div className="flex-shrink-0">
                 <img
-                  src="/fortnite-icon.svg"
+                  src="/fortnitebox.png"
                   alt="Titan Fortnite Zen Script"
                   className="w-20 drop-shadow-xl"
                 />
@@ -348,7 +348,7 @@ function ProductPage() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 mb-6 md:mb-8">
             <div className="col-span-2 md:col-span-1">
-              <img src="/fortnite-logo.svg" alt="Fortnite Zen Scripts" className="h-8 md:h-10 mb-3 md:mb-4" />
+              <img src="/fortnite-logo.png" alt="Fortnite Zen Scripts" className="h-8 md:h-10 mb-3 md:mb-4" />
               <p className="text-xs md:text-sm text-gray-400">
                 Premium Cronus Zen scripts for Fortnite. Trusted by thousands.
               </p>
